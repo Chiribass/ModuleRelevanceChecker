@@ -1,0 +1,363 @@
+avalon-framework:avalon-framework-impl
+	current version: 4.2.0, datetime: 2015-12-28 09:34:37,
+	latest version before 2022: 4.3, latest datetime before 2022: 2015-12-28 09:34:37
+axis:axis-jaxrpc
+	current version: 1.3, datetime: 2005-11-09 01:03:26,
+	latest version before 2022: 1.4, latest datetime before 2022: 2008-10-14 22:44:35
+axis:axis-saaj
+	current version: 1.3, datetime: 2005-11-09 01:03:20,
+	latest version before 2022: 1.4, latest datetime before 2022: 2008-10-14 22:25:59
+axis:axis
+	current version: 1.3, datetime: 2005-11-11 07:31:53,
+	latest version before 2022: 1.4, latest datetime before 2022: 2006-05-31 22:52:32
+bouncycastle:bcmail-jdk14
+	current version: 138, datetime: 2008-04-04 19:07:27,
+	latest version before 2022: 139, latest datetime before 2022: 2008-06-05 21:02:38
+bouncycastle:bcprov-jdk14
+	current version: 138, datetime: 2008-04-04 20:05:49,
+	latest version before 2022: 140, latest datetime before 2022: 2008-10-01 17:49:56
+com.beust:jcommander
+	current version: 1.78, datetime: 2019-08-22 20:16:55,
+	latest version before 2022: 1.82, latest datetime before 2022: 2022-01-11 07:27:03
+com.fasterxml.woodstox:woodstox-core
+	current version: 6.2.6, datetime: 2021-04-20 00:19:59,
+	latest version before 2022: 6.6.2, latest datetime before 2022: 2024-03-27 06:31:34
+com.github.jai-imageio:jai-imageio-core
+	current version: 1.4.0, datetime: 2018-04-16 10:30:19,
+	latest version before 2022: 1.4.0, latest datetime before 2022: 2018-04-16 10:30:19
+com.github.virtuald:curvesapi
+	current version: 1.06, datetime: 2018-03-11 08:16:28,
+	latest version before 2022: 1.08, latest datetime before 2022: 2023-08-11 04:08:51
+com.google.code.gson:gson
+	current version: 2.9.1, datetime: 2022-08-01 00:26:22,
+	latest version before 2022: 2.11.0, latest datetime before 2022: 2024-05-19 21:54:42
+com.google.zxing:core
+	current version: 3.4.1, datetime: 2020-09-30 03:57:16,
+	latest version before 2022: 3.5.3, latest datetime before 2022: 2024-01-31 03:40:11
+com.google.zxing:javase
+	current version: 3.4.1, datetime: 2020-09-30 03:57:39,
+	latest version before 2022: 3.5.3, latest datetime before 2022: 2024-01-31 03:40:27
+com.groupdocs:groupdocs-conversion
+	current version: 1.3.0, datetime: 2015-11-04 22:05:25,
+	latest version before 2022: 17.12, latest datetime before 2022: 2018-03-07 13:15:22
+com.hp.hpl.jena:iri
+	current version: 0.8, datetime: 2009-11-13 23:17:11,
+	latest version before 2022: 0.8, latest datetime before 2022: 2009-11-13 23:17:11
+com.hp.hpl.jena:iri:jar:sources
+	current version does not exist in repository,
+	latest version before 2022: 0.8, latest datetime before 2022: 2009-11-13 23:17:11
+com.hp.hpl.jena:jena
+	current version: 2.6.3, datetime: 2010-06-01 16:32:43,
+	latest version before 2022: 2.6.4, latest datetime before 2022: 2010-12-12 19:58:00
+com.ibm.db2.jcc:db2jcc
+	current version: db2jcc4, datetime: 2018-11-30 11:58:40,
+	latest version before 2022: db2jcc4, latest datetime before 2022: 2018-11-30 11:58:40
+com.ibm.icu:icu4j
+	current version: 69.1, datetime: 2021-04-08 01:51:18,
+	latest version before 2022: 75.1, latest datetime before 2022: 2024-04-16 22:25:00
+com.lowagie:itext
+	current version: 2.1.7, datetime: 2009-07-09 01:39:10,
+	latest version before 2022: 4.2.1, latest datetime before 2022: 2015-07-10 11:18:23
+com.microsoft.sqlserver:mssql-jdbc:jar:8.4.1.jre8
+	current version does not exist in repository,
+	latest version before 2022: 12.7.0.jre8-preview, latest datetime before 2022: 2024-04-05 23:57:46
+com.oracle.ojdbc:ojdbc8
+	current version: 19.3.0.0, datetime: 2019-09-14 03:29:54,
+	latest version before 2022: 19.3.0.0, latest datetime before 2022: 2019-09-14 03:29:54
+com.oracle.ojdbc:ons
+	current version: 19.3.0.0, datetime: 2019-09-14 02:51:02,
+	latest version before 2022: 19.3.0.0, latest datetime before 2022: 2019-09-14 02:51:02
+com.oracle.ojdbc:oraclepki
+	current version: 19.3.0.0, datetime: 2019-09-14 02:50:18,
+	latest version before 2022: 19.3.0.0, latest datetime before 2022: 2019-09-14 02:50:18
+com.oracle.ojdbc:simplefan
+	current version: 19.3.0.0, datetime: 2019-09-14 02:45:18,
+	latest version before 2022: 19.3.0.0, latest datetime before 2022: 2019-09-14 02:45:18
+com.oracle.ojdbc:ucp
+	current version: 19.3.0.0, datetime: 2019-09-14 02:44:20,
+	latest version before 2022: 19.3.0.0, latest datetime before 2022: 2019-09-14 02:44:20
+com.sun.mail:javax.mail
+	current version: 1.5.0, datetime: 2013-04-06 01:24:58,
+	latest version before 2022: 1.6.2, latest datetime before 2022: 2018-08-30 01:30:52
+com.sun.mail:javax.mail
+	current version: 1.6.0, datetime: 2017-07-17 22:55:46,
+	latest version before 2022: 1.6.2, latest datetime before 2022: 2018-08-30 01:30:52
+com.zaxxer:SparseBitSet
+	current version: 1.2, datetime: 2018-04-16 12:39:42,
+	latest version before 2022: 1.3, latest datetime before 2022: 2023-09-06 08:12:05
+commons-codec:commons-codec
+	current version: 1.2, datetime: 2005-11-24 08:20:17,
+	latest version before 2022: 1.17.0, latest datetime before 2022: 2024-04-20 21:11:53
+commons-discovery:commons-discovery
+	current version: 0.2, datetime: 2007-03-12 20:01:36,
+	latest version before 2022: 0.5, latest datetime before 2022: 2011-05-01 16:58:24
+commons-fileupload:commons-fileupload
+	current version: 1.4, datetime: 2018-12-24 10:07:08,
+	latest version before 2022: 1.5, latest datetime before 2022: 2023-02-01 15:40:16
+commons-httpclient:commons-httpclient
+	current version: 3.1, datetime: 2007-08-21 16:44:07,
+	latest version before 2022: 3.1, latest datetime before 2022: 2007-08-21 16:44:07
+commons-io:commons-io
+	current version: 2.11.0, datetime: 2021-07-10 04:43:00,
+	latest version before 2022: 2.16.1, latest datetime before 2022: 2024-04-05 04:25:32
+commons-logging:commons-logging
+	current version: 1.0.4, datetime: 2005-11-09 01:16:41,
+	latest version before 2022: 1.3.2, latest datetime before 2022: 2024-05-12 15:28:50
+commons-logging:commons-logging
+	current version: 1.1.1, datetime: 2007-11-26 23:24:10,
+	latest version before 2022: 1.3.2, latest datetime before 2022: 2024-05-12 15:28:50
+io.github.classgraph:classgraph:jar:4.8.83
+	current version does not exist in repository,
+	latest version before 2022: 4.8.172, latest datetime before 2022: 2024-04-19 19:51:00
+jakarta-regexp:jakarta-regexp
+	current version: 1.4, datetime: 2005-11-09 01:23:55,
+	latest version before 2022: 1.4, latest datetime before 2022: 2005-11-09 01:23:55
+jakarta.activation:jakarta.activation-api
+	current version: 1.2.2, datetime: 2020-02-20 21:37:46,
+	latest version before 2022: 2.1.3, latest datetime before 2022: 2024-02-15 11:14:27
+jakarta.xml.bind:jakarta.xml.bind-api
+	current version: 2.3.3, datetime: 2020-01-27 12:35:28,
+	latest version before 2022: 4.0.2, latest datetime before 2022: 2024-02-19 12:42:14
+javax.activation:activation
+	current version: 1.1, datetime: 2006-05-03 02:48:29,
+	latest version before 2022: 1.1.1, latest datetime before 2022: 2009-10-23 21:26:03
+javax.activation:javax.activation-api
+	current version: 1.2.0, datetime: 2017-09-07 02:13:19,
+	latest version before 2022: 1.2.0, latest datetime before 2022: 2017-09-07 02:13:19
+javax.annotation:javax.annotation-api
+	current version: 1.3.2, datetime: 2018-02-21 13:24:24,
+	latest version before 2022: 1.3.2, latest datetime before 2022: 2018-02-21 13:24:24
+javax.annotation:jsr250-api
+	current version: 1.0, datetime: 2007-05-15 23:25:59,
+	latest version before 2022: 1.0, latest datetime before 2022: 2007-05-15 23:25:59
+javax.ejb:ejb-api
+	current version: 3.0, datetime: 2007-03-28 23:39:25,
+	latest version before 2022: 3.0-alpha-1, latest datetime before 2022: 2008-04-17 03:04:16
+javax.jws:javax.jws-api
+	current version: 1.1, datetime: 2018-06-25 22:30:35,
+	latest version before 2022: 1.1, latest datetime before 2022: 2018-06-25 22:30:35
+javax.mail:mail
+	current version: 1.4.7, datetime: 2013-03-09 04:38:18,
+	latest version before 2022: 1.4.7, latest datetime before 2022: 2013-03-09 04:38:18
+javax.servlet:javax.servlet-api
+	current version: 3.1.0, datetime: 2013-04-26 02:52:39,
+	latest version before 2022: 4.0.1, latest datetime before 2022: 2018-04-20 10:19:20
+javax.servlet:jstl
+	current version: 1.2, datetime: 2011-06-23 20:20:02,
+	latest version before 2022: 1.2, latest datetime before 2022: 2011-06-23 20:20:02
+javax.transaction:javax.transaction-api
+	current version: 1.3, datetime: 2018-03-14 04:55:19,
+	latest version before 2022: 1.3, latest datetime before 2022: 2018-03-14 04:55:19
+javax.ws.rs:jsr311-api
+	current version: 1.1.1, datetime: 2009-11-24 02:41:41,
+	latest version before 2022: 1.1-ea, latest datetime before 2022: 2010-05-20 03:49:04
+javax.xml.bind:jaxb-api
+	current version: 2.3.1, datetime: 2018-09-12 16:28:52,
+	latest version before 2022: 2.3.1, latest datetime before 2022: 2018-09-12 16:28:52
+javax.xml.soap:javax.xml.soap-api
+	current version: 1.4.0, datetime: 2017-06-13 17:36:35,
+	latest version before 2022: 1.4.0, latest datetime before 2022: 2017-06-13 17:36:35
+javax.xml.ws:jaxws-api
+	current version: 2.3.1, datetime: 2018-09-12 22:25:52,
+	latest version before 2022: 2.3.1, latest datetime before 2022: 2018-09-12 22:25:52
+javax:javaee-api
+	current version: 7.0, datetime: 2013-05-20 19:16:24,
+	latest version before 2022: 8.0.1, latest datetime before 2022: 2019-04-09 02:38:07
+javax:javaee-api
+	current version: 8.0, datetime: 2017-09-06 18:23:40,
+	latest version before 2022: 8.0.1, latest datetime before 2022: 2019-04-09 02:38:07
+jaxen:jaxen
+	current version: 1.1.6, datetime: 2013-12-14 04:56:36,
+	latest version before 2022: 2.0.0, latest datetime before 2022: 2022-12-04 00:19:56
+junit:junit
+	current version: 4.12, datetime: 2014-12-04 19:17:43,
+	latest version before 2022: 4.13.2, latest datetime before 2022: 2021-02-13 19:31:54
+log4j:log4j
+	current version: 1.2.17, datetime: 2012-05-26 12:43:39,
+	latest version before 2022: 1.2.17, latest datetime before 2022: 2012-05-26 12:43:39
+net.oauth.core:oauth-consumer
+	current version: 20090617, datetime: 2016-06-06 16:42:24,
+	latest version before 2022: 20100527, latest datetime before 2022: 2016-06-08 21:39:52
+net.oauth.core:oauth-httpclient3
+	current version: 20090617, datetime: 2016-05-26 16:30:25,
+	latest version before 2022: 20090617, latest datetime before 2022: 2016-05-26 16:30:25
+net.oauth.core:oauth
+	current version: 20090617, datetime: 2016-05-26 17:12:45,
+	latest version before 2022: 20090617, latest datetime before 2022: 2016-05-26 17:12:45
+net.sf.barcode4j:barcode4j
+	current version: 2.0, datetime: 2008-12-05 22:29:08,
+	latest version before 2022: 2.1, latest datetime before 2022: 2012-07-25 10:44:13
+net.sourceforge.nekohtml:nekohtml
+	current version: 1.9.22, datetime: 2015-04-17 15:42:42,
+	latest version before 2022: 1.9.22, latest datetime before 2022: 2015-04-17 15:42:42
+org.apache.ant:ant-launcher:jar:1.8.2
+	current version does not exist in repository,
+	latest version before 2022: 1.10.14, latest datetime before 2022: 2023-08-16 15:06:48
+org.apache.ant:ant:jar:1.8.2
+	current version does not exist in repository,
+	latest version before 2022: 1.10.14, latest datetime before 2022: 2023-08-16 15:03:32
+org.apache.axis2:axis2-kernel
+	current version: 1.8.0, datetime: 2021-08-01 20:24:03,
+	latest version before 2022: 1.8.2, latest datetime before 2022: 2022-07-14 01:35:45
+org.apache.axis2:axis2-transport-http
+	current version: 1.8.0, datetime: 2021-08-01 20:27:09,
+	latest version before 2022: 1.8.2, latest datetime before 2022: 2022-07-14 01:37:57
+org.apache.bcel:bcel
+	current version: 5.2, datetime: 2006-06-13 14:07:49,
+	latest version before 2022: 6.9.0, latest datetime before 2022: 2024-04-21 20:07:15
+org.apache.commons:commons-collections4
+	current version: 4.4, datetime: 2019-07-05 21:10:18,
+	latest version before 2022: 4.5.0-M1, latest datetime before 2022: 2024-03-31 19:04:37
+org.apache.commons:commons-compress
+	current version: 1.19, datetime: 2019-08-24 19:21:57,
+	latest version before 2022: 1.26.1, latest datetime before 2022: 2024-03-06 01:24:27
+org.apache.commons:commons-math3
+	current version: 3.6.1, datetime: 2016-03-17 20:35:11,
+	latest version before 2022: 3.6.1, latest datetime before 2022: 2016-03-17 20:35:11
+org.apache.httpcomponents:httpclient
+	current version: 4.5.13, datetime: 2020-10-03 17:47:41,
+	latest version before 2022: 4.5.14, latest datetime before 2022: 2022-11-30 21:40:54
+org.apache.httpcomponents:httpclient
+	current version: 4.5.8, datetime: 2019-03-26 11:24:07,
+	latest version before 2022: 4.5.14, latest datetime before 2022: 2022-11-30 21:40:54
+org.apache.httpcomponents:httpcore
+	current version: 4.4.11, datetime: 2019-01-15 13:24:25,
+	latest version before 2022: 4.4.16, latest datetime before 2022: 2022-11-26 12:45:01
+org.apache.httpcomponents:httpcore
+	current version: 4.4.13, datetime: 2020-01-09 15:57:43,
+	latest version before 2022: 4.4.16, latest datetime before 2022: 2022-11-26 12:45:01
+org.apache.logging.log4j:log4j-api:jar:2.3
+	current version does not exist in repository,
+	latest version before 2022: 2.23.1, latest datetime before 2022: 2024-03-06 15:32:45
+org.apache.logging.log4j:log4j-core:jar:2.3
+	current version does not exist in repository,
+	latest version before 2022: 2.23.1, latest datetime before 2022: 2024-03-06 15:32:46
+org.apache.neethi:neethi
+	current version: 3.1.1, datetime: 2018-01-17 23:12:18,
+	latest version before 2022: 3.2.0, latest datetime before 2022: 2021-09-14 21:34:56
+org.apache.poi:poi-excelant
+	current version: 4.1.2, datetime: 2020-02-10 22:43:50,
+	latest version before 2022: 5.2.5, latest datetime before 2022: 2023-11-18 00:48:15
+org.apache.poi:poi-ooxml-schemas
+	current version: 4.1.2, datetime: 2020-02-10 22:44:35,
+	latest version before 2022: 4.1.2, latest datetime before 2022: 2020-02-10 22:44:35
+org.apache.poi:poi-ooxml
+	current version: 4.1.2, datetime: 2020-02-10 22:44:02,
+	latest version before 2022: 5.2.5, latest datetime before 2022: 2023-11-18 00:48:40
+org.apache.poi:poi
+	current version: 4.1.2, datetime: 2020-02-10 22:42:36,
+	latest version before 2022: 5.2.5, latest datetime before 2022: 2023-11-18 00:46:42
+org.apache.tomcat:annotations-api
+	current version: 6.0.35, datetime: 2011-12-06 15:45:58,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:36:23
+org.apache.tomcat:catalina
+	current version: 6.0.35, datetime: 2011-12-06 15:50:41,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:36:54
+org.apache.tomcat:el-api
+	current version: 6.0.35, datetime: 2011-12-06 15:47:06,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:37:50
+org.apache.tomcat:jasper-el
+	current version: 6.0.35, datetime: 2011-12-06 15:49:28,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:38:13
+org.apache.tomcat:jasper
+	current version: 6.0.35, datetime: 2011-12-06 15:51:58,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:38:01
+org.apache.tomcat:jsp-api
+	current version: 6.0.35, datetime: 2011-12-06 15:47:41,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:38:25
+org.apache.tomcat:juli
+	current version: 6.0.35, datetime: 2011-12-06 15:48:03,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:36:00
+org.apache.tomcat:servlet-api
+	current version: 6.0.35, datetime: 2011-12-06 15:46:21,
+	latest version before 2022: 6.0.53, latest datetime before 2022: 2017-04-02 10:38:34
+org.apache.wink:wink-json4j
+	current version: 1.3.0, datetime: 2013-03-18 07:49:44,
+	latest version before 2022: 1.4, latest datetime before 2022: 2013-08-26 08:40:27
+org.apache.woden:woden-core
+	current version: 1.0M10, datetime: 2015-09-06 16:28:10,
+	latest version before 2022: 1.0M10, latest datetime before 2022: 2015-09-06 16:28:10
+org.apache.ws.commons.axiom:axiom-api
+	current version: 1.2.12, datetime: 2011-07-02 16:44:32,
+	latest version before 2022: 1.4.0, latest datetime before 2022: 2022-05-14 22:19:22
+org.apache.ws.commons.axiom:axiom-impl
+	current version: 1.3.0, datetime: 2021-07-01 22:50:07,
+	latest version before 2022: 1.4.0, latest datetime before 2022: 2022-05-14 22:21:36
+org.apache.ws.xmlschema:xmlschema-core
+	current version: 2.2.5, datetime: 2020-01-03 18:50:55,
+	latest version before 2022: 2.3.1, latest datetime before 2022: 2023-09-07 22:20:41
+org.apache.xmlbeans:xmlbeans
+	current version: 3.1.0, datetime: 2019-03-23 01:14:29,
+	latest version before 2022: 5.2.0, latest datetime before 2022: 2023-11-08 11:49:59
+org.apache.xmlgraphics:batik-constants
+	current version: 1.11, datetime: 2019-02-01 18:57:22,
+	latest version before 2022: 1.17, latest datetime before 2022: 2023-08-21 14:06:15
+org.apache.xmlgraphics:batik-css
+	current version: 1.11, datetime: 2019-02-01 18:53:47,
+	latest version before 2022: 1.17, latest datetime before 2022: 2023-08-21 14:06:43
+org.apache.xmlgraphics:batik-i18n
+	current version: 1.11, datetime: 2019-02-01 18:57:09,
+	latest version before 2022: 1.17, latest datetime before 2022: 2023-08-21 14:08:18
+org.apache.xmlgraphics:batik-util
+	current version: 1.11, datetime: 2019-02-04 13:42:38,
+	latest version before 2022: 1.17, latest datetime before 2022: 2023-08-21 14:14:30
+org.apache.xmlgraphics:xmlgraphics-commons
+	current version: 2.3, datetime: 2018-05-23 10:51:47,
+	latest version before 2022: 2.9, latest datetime before 2022: 2023-08-21 14:23:07
+org.bouncycastle:bcmail-jdk14:jar:1.38
+	current version does not exist in repository,
+	latest version before 2022: 1.78.1, latest datetime before 2022: 2024-04-20 07:43:30
+org.bouncycastle:bcprov-jdk14:jar:1.38
+	current version does not exist in repository,
+	latest version before 2022: 1.78.1, latest datetime before 2022: 2024-04-20 07:41:31
+org.bouncycastle:bctsp-jdk14
+	current version: 1.38, datetime: 2009-07-30 04:41:01,
+	latest version before 2022: 1.46, latest datetime before 2022: 2011-02-23 07:23:54
+org.checkerframework:checker-qual:jar:3.5.0
+	current version does not exist in repository,
+	latest version before 2022: 3.43.0, latest datetime before 2022: 2024-05-01 22:03:24
+org.codehaus.woodstox:stax2-api
+	current version: 4.2.1, datetime: 2020-05-14 07:15:53,
+	latest version before 2022: 4.2.2, latest datetime before 2022: 2023-10-11 00:22:18
+org.eclipse.jdt.core.compiler:ecj
+	current version: 3.7, datetime: 2011-08-08 23:38:10,
+	latest version before 2022: 4.6.1, latest datetime before 2022: 2016-10-07 06:12:15
+org.hamcrest:hamcrest-core
+	current version: 1.3, datetime: 2012-07-10 00:08:02,
+	latest version before 2022: 2.2, latest datetime before 2022: 2019-10-16 23:52:39
+org.jdom:jdom
+	current version: 1.1, datetime: 2008-09-26 21:28:18,
+	latest version before 2022: 2.0.2, latest datetime before 2022: 2012-06-09 04:38:21
+org.owasp.antisamy:antisamy:jar:1.5.8
+	current version does not exist in repository,
+	latest version before 2022: 1.7.5, latest datetime before 2022: 2024-02-02 18:49:43
+org.postgresql:postgresql:jar:42.2.22
+	current version does not exist in repository,
+	latest version before 2022: 42.7.3, latest datetime before 2022: 2024-03-14 21:41:47
+org.python:jython-standalone
+	current version: 2.7.1, datetime: 2017-06-30 22:08:50,
+	latest version before 2022: 2.7.4b2, latest datetime before 2022: 2024-05-05 11:22:53
+org.slf4j:slf4j-api:jar:2.0.0-alpha1
+	current version does not exist in repository,
+	latest version before 2022: 2.0.13, latest datetime before 2022: 2024-04-12 17:24:04
+org.slf4j:slf4j-log4j12:jar:2.0.0-alpha1
+	current version does not exist in repository,
+	latest version before 2022: 2.0.13, latest datetime before 2022: 2024-04-12 17:25:11
+wsdl4j:wsdl4j
+	current version: 1.5.1, datetime: 2005-12-20 19:20:38,
+	latest version before 2022: 1.6.3, latest datetime before 2022: 2013-02-27 21:24:17
+wsdl4j:wsdl4j
+	current version: 1.6.3, datetime: 2013-02-27 21:24:17,
+	latest version before 2022: 1.6.3, latest datetime before 2022: 2013-02-27 21:24:17
+xerces:xercesImpl
+	current version: 2.9.1, datetime: 2008-10-02 01:19:19,
+	latest version before 2022: 2.12.2, latest datetime before 2022: 2022-01-27 13:18:24
+xml-apis:xml-apis-ext
+	current version: 1.3.04, datetime: 2006-12-22 16:37:52,
+	latest version before 2022: 1.3.04, latest datetime before 2022: 2006-12-22 16:37:52
+xml-apis:xml-apis
+	current version: 1.3.04, datetime: 2006-12-22 16:37:52,
+	latest version before 2022: 1.4.01, latest datetime before 2022: 2011-08-20 03:11:11
+xml-apis:xml-apis
+	current version: 1.4.01, datetime: 2011-08-20 03:11:11,
+	latest version before 2022: 1.4.01, latest datetime before 2022: 2011-08-20 03:11:11
